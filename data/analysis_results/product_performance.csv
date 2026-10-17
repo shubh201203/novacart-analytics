@@ -1,0 +1,180 @@
+product_id,product_name,category,units_sold,realized_net_revenue,realized_profit,profit_margin,product_matrix_category
+PROD-1022,RealmeTech Smart Home D4,Electronics,2490.0,87167257.17,18389117.69,0.211,Volume Driver
+PROD-1017,SamsungOptima Audio & Wearables E5,Electronics,1306.0,69461677.23,15660460.0,0.2255,Volume Driver
+PROD-1006,RealmeTech Smartphones F6,Electronics,1180.0,62044311.68,11345899.28,0.1829,Volume Driver
+PROD-1080,HavellsSmart Decor & Lighting B2,Home & Kitchen,6987.0,49237809.27,25526985.83,0.5184,Star Product
+PROD-1024,SamsungOptima Smart Home F6,Electronics,675.0,40363850.81,6282725.57,0.1557,Volume Driver
+PROD-1007,RealmeTech Laptops & Accessories A1,Electronics,1269.0,37995948.88,4673857.92,0.123,Volume Driver
+PROD-1018,NoiseFit Audio & Wearables F6,Electronics,1615.0,24418742.87,4456123.15,0.1825,Volume Driver
+PROD-1026,BoatWave Cameras B2,Electronics,653.0,22627557.47,3007073.67,0.1329,Volume Driver
+PROD-1004,MiSmart Smartphones D4,Electronics,602.0,21574408.15,5344599.15,0.2477,Volume Driver
+PROD-1078,SolimoNest Home Furnishings F6,Home & Kitchen,4051.0,21215522.36,10784721.08,0.5083,Star Product
+PROD-1011,BoatWave Laptops & Accessories E5,Electronics,11438.0,19038786.63,3451228.83,0.1813,Volume Driver
+PROD-1060,FabEthnic Activewear F6,Apparel,5031.0,16227376.96,8962909.86,0.5523,Star Product
+PROD-1002,NoiseFit Smartphones B2,Electronics,449.0,15796908.68,2489916.86,0.1576,Volume Driver
+PROD-1084,HavellsSmart Decor & Lighting F6,Home & Kitchen,1493.0,15494237.42,7760373.42,0.5009,Star Product
+PROD-1008,MiSmart Laptops & Accessories B2,Electronics,312.0,13001049.43,1813421.43,0.1395,Volume Driver
+PROD-1020,MiSmart Smart Home B2,Electronics,199.0,11638657.41,2307943.19,0.1983,Volume Driver
+PROD-1010,NoiseFit Laptops & Accessories D4,Electronics,667.0,11393668.2,2134411.65,0.1873,Volume Driver
+PROD-1067,PrestigeLike Mixer Grinders A1,Home & Kitchen,925.0,11312540.27,4108587.19,0.3632,Volume Driver
+PROD-1173,BoldFit Badminton & Tennis E5,Sports & Outdoors,2274.0,10728874.46,3814015.73,0.3555,Volume Driver
+PROD-1030,RealmeTech Cameras F6,Electronics,572.0,10108315.29,1312307.15,0.1298,Volume Driver
+PROD-1175,BoldFit Outdoor Camping A1,Sports & Outdoors,1529.0,9033146.86,3167996.22,0.3507,Volume Driver
+PROD-1068,PrestigeLike Mixer Grinders B2,Home & Kitchen,917.0,8749629.91,3231709.89,0.3694,Volume Driver
+PROD-1049,AllenCasual Footwear A1,Apparel,2251.0,8680770.0,5540605.32,0.6383,Star Product
+PROD-1066,PrestigeLike Kitchenware F6,Home & Kitchen,888.0,8498157.82,4033817.84,0.4747,Star Product
+PROD-1046,MetroSteps Women's Western D4,Apparel,2295.0,8380599.96,4244587.16,0.5065,Star Product
+PROD-1170,BoldFit Badminton & Tennis B2,Sports & Outdoors,3077.0,8312805.85,2820271.15,0.3393,Volume Driver
+PROD-1058,AllenCasual Activewear D4,Apparel,2780.0,8155886.56,5153112.32,0.6318,Star Product
+PROD-1047,ManyavarLike Women's Western E5,Apparel,4022.0,7983099.33,4745248.53,0.5944,Star Product
+PROD-1036,AllenCasual Ethnic Wear F6,Apparel,2279.0,7628619.73,4794246.05,0.6285,Star Product
+PROD-1005,SamsungOptima Smartphones E5,Electronics,129.0,7450507.9,1084675.5,0.1456,Volume Driver
+PROD-1087,MiltonCraft Water Purifiers C3,Home & Kitchen,1643.0,7360478.97,3765283.35,0.5116,Star Product
+PROD-1157,SGPro Fitness & Gym Equipment A1,Sports & Outdoors,1256.0,6761354.65,3607438.45,0.5335,Star Product
+PROD-1028,NoiseFit Cameras D4,Electronics,221.0,6474336.8,1466978.38,0.2266,Volume Driver
+PROD-1156,NiviaSports Cricket Gear F6,Sports & Outdoors,835.0,6065868.16,2533834.06,0.4177,Volume Driver
+PROD-1168,YonexPro Yoga Mats F6,Sports & Outdoors,764.0,5933273.36,2194176.66,0.3698,Volume Driver
+PROD-1023,NoiseFit Smart Home E5,Electronics,388.0,5908510.04,1516479.09,0.2567,Volume Driver
+PROD-1063,BajajHome Kitchenware C3,Home & Kitchen,498.0,5888145.72,2666082.56,0.4528,Star Product
+PROD-1076,HavellsSmart Home Furnishings D4,Home & Kitchen,872.0,5841544.5,2674183.38,0.4578,Star Product
+PROD-1082,SolimoNest Decor & Lighting D4,Home & Kitchen,547.0,4887586.61,2152946.64,0.4405,Star Product
+PROD-1104,NykaaStyle Grooming & Shavers B2,Beauty & Personal Care,3645.0,4836826.47,2911738.17,0.602,Star Product
+PROD-1009,BoatWave Laptops & Accessories C3,Electronics,93.0,4809826.08,830754.24,0.1727,Volume Driver
+PROD-1180,DecathlonLike Outdoor Camping F6,Sports & Outdoors,8834.0,3990713.72,1825462.98,0.4574,Star Product
+PROD-1001,RealmeTech Smartphones A1,Electronics,160.0,3947801.58,939960.93,0.2381,Volume Driver
+PROD-1029,NoiseFit Cameras E5,Electronics,644.0,3862118.96,551889.32,0.1429,Volume Driver
+PROD-1003,NoiseFit Smartphones C3,Electronics,126.0,3739416.24,516210.35,0.138,Volume Driver
+PROD-1160,NiviaSports Fitness & Gym Equipment D4,Sports & Outdoors,646.0,3628955.39,1611310.79,0.444,Star Product
+PROD-1109,MamaearthLike Fragrance A1,Beauty & Personal Care,1807.0,3530199.82,2119175.53,0.6003,Star Product
+PROD-1163,DecathlonLike Yoga Mats A1,Sports & Outdoors,774.0,3319267.2,1529394.14,0.4608,Star Product
+PROD-1088,PrestigeLike Water Purifiers D4,Home & Kitchen,259.0,3078722.3,1498392.7,0.4867,Star Product
+PROD-1064,PrestigeLike Kitchenware D4,Home & Kitchen,249.0,2875698.71,940080.43,0.3269,Volume Driver
+PROD-1042,FabEthnic Men's Casuals F6,Apparel,902.0,2794396.2,1798404.21,0.6436,Star Product
+PROD-1054,AllenCasual Footwear F6,Apparel,3036.0,2794306.07,1195182.23,0.4277,Volume Driver
+PROD-1027,NoiseFit Cameras C3,Electronics,267.0,2583230.01,638117.19,0.247,Volume Driver
+PROD-1130,HarperCollinsIN Competitive Exam Prep D4,Books & Media,2117.0,2454320.45,800344.99,0.3261,Volume Driver
+PROD-1045,UrbanBanyan Women's Western C3,Apparel,1896.0,2427748.55,1407812.03,0.5799,Star Product
+PROD-1025,MiSmart Cameras A1,Electronics,283.0,2397254.85,466872.4,0.1948,Volume Driver
+PROD-1021,BoatWave Smart Home C3,Electronics,136.0,2363964.8,444204.74,0.1879,Volume Driver
+PROD-1070,MiltonCraft Mixer Grinders D4,Home & Kitchen,414.0,2362078.41,875251.84,0.3705,Volume Driver
+PROD-1079,PrestigeLike Decor & Lighting A1,Home & Kitchen,445.0,2350958.97,786166.0,0.3344,Volume Driver
+PROD-1134,HarperCollinsIN Business & Finance B2,Books & Media,2229.0,2248928.04,637313.72,0.2834,Volume Driver
+PROD-1161,NiviaSports Fitness & Gym Equipment E5,Sports & Outdoors,743.0,2246790.21,1131538.71,0.5036,Star Product
+PROD-1059,MetroSteps Activewear E5,Apparel,670.0,2084037.83,1271428.87,0.6101,Star Product
+PROD-1178,DecathlonLike Outdoor Camping D4,Sports & Outdoors,1081.0,2016051.71,930350.55,0.4615,Star Product
+PROD-1056,ManyavarLike Activewear B2,Apparel,658.0,1919100.46,1048530.86,0.5464,Star Product
+PROD-1164,BoldFit Yoga Mats B2,Sports & Outdoors,267.0,1877404.32,806563.34,0.4296,Volume Driver
+PROD-1085,BajajHome Water Purifiers A1,Home & Kitchen,246.0,1840820.37,626741.41,0.3405,Volume Driver
+PROD-1048,AllenCasual Women's Western F6,Apparel,1041.0,1793696.1,811057.58,0.4522,Star Product
+PROD-1035,ManyavarLike Ethnic Wear E5,Apparel,612.0,1748248.06,979846.06,0.5605,Star Product
+PROD-1083,HavellsSmart Decor & Lighting E5,Home & Kitchen,199.0,1705098.02,825639.53,0.4842,Star Product
+PROD-1122,RupaBooks Indian Fiction B2,Books & Media,5672.0,1619250.87,362095.77,0.2236,Volume Driver
+PROD-1141,RupaBooks Self-Help C3,Books & Media,4703.0,1588229.54,454124.4,0.2859,Volume Driver
+PROD-1096,PlumClean Skincare F6,Beauty & Personal Care,921.0,1525433.82,881718.92,0.578,Star Product
+PROD-1015,NoiseFit Audio & Wearables C3,Electronics,203.0,1448995.52,280878.25,0.1938,Volume Driver
+PROD-1053,ManyavarLike Footwear E5,Apparel,747.0,1442279.25,896457.45,0.6216,Star Product
+PROD-1019,RealmeTech Smart Home A1,Electronics,164.0,1423335.17,171923.26,0.1208,Volume Driver
+PROD-1171,YonexPro Badminton & Tennis C3,Sports & Outdoors,1375.0,1407915.05,722026.41,0.5128,Star Product
+PROD-1057,AllenCasual Activewear C3,Apparel,1049.0,1357522.21,608170.17,0.448,Star Product
+PROD-1155,DecathlonLike Cricket Gear E5,Sports & Outdoors,202.0,1329365.13,665036.85,0.5003,Star Product
+PROD-1151,YonexPro Cricket Gear A1,Sports & Outdoors,176.0,1298322.14,639252.24,0.4924,Star Product
+PROD-1044,UrbanBanyan Women's Western B2,Apparel,570.0,1225327.59,793002.61,0.6472,Star Product
+PROD-1153,YonexPro Cricket Gear C3,Sports & Outdoors,331.0,1218374.5,630656.18,0.5176,Star Product
+PROD-1040,AllenCasual Men's Casuals D4,Apparel,384.0,1188568.74,621224.14,0.5227,Star Product
+PROD-1159,YonexPro Fitness & Gym Equipment C3,Sports & Outdoors,164.0,1179171.75,645964.05,0.5478,Star Product
+PROD-1162,DecathlonLike Fitness & Gym Equipment F6,Sports & Outdoors,756.0,1177136.68,536716.49,0.456,Star Product
+PROD-1061,HavellsSmart Kitchenware A1,Home & Kitchen,192.0,1163583.32,484581.48,0.4165,Volume Driver
+PROD-1071,SolimoNest Mixer Grinders E5,Home & Kitchen,236.0,1146563.0,536926.24,0.4683,Star Product
+PROD-1124,JaicoPress Indian Fiction D4,Books & Media,3663.0,1099298.21,336750.33,0.3063,Volume Driver
+PROD-1165,DecathlonLike Yoga Mats C3,Sports & Outdoors,291.0,1093571.53,461401.29,0.4219,Volume Driver
+PROD-1154,DecathlonLike Cricket Gear D4,Sports & Outdoors,619.0,996348.9,510420.18,0.5123,Star Product
+PROD-1106,NykaaStyle Grooming & Shavers D4,Beauty & Personal Care,603.0,927172.46,570876.1,0.6157,Star Product
+PROD-1126,RupaBooks Indian Fiction F6,Books & Media,1187.0,879657.18,291020.68,0.3308,Underperformer
+PROD-1172,BoldFit Badminton & Tennis D4,Sports & Outdoors,1543.0,829737.49,372398.04,0.4488,Hidden Gem
+PROD-1033,UrbanBanyan Ethnic Wear C3,Apparel,220.0,826452.36,490408.23,0.5934,Hidden Gem
+PROD-1073,SolimoNest Home Furnishings A1,Home & Kitchen,423.0,815583.28,359400.78,0.4407,Hidden Gem
+PROD-1138,HarperCollinsIN Business & Finance F6,Books & Media,1186.0,809464.81,269853.23,0.3334,Underperformer
+PROD-1148,JaicoPress Children's Books D4,Books & Media,866.0,805574.41,243744.29,0.3026,Underperformer
+PROD-1012,SamsungOptima Laptops & Accessories F6,Electronics,565.0,771474.9,133127.17,0.1726,Underperformer
+PROD-1120,ForestEssentials Ayurvedic Care F6,Beauty & Personal Care,424.0,765789.18,465059.3,0.6073,Hidden Gem
+PROD-1091,NykaaStyle Skincare A1,Beauty & Personal Care,667.0,707274.81,471255.06,0.6663,Hidden Gem
+PROD-1107,BombayGrooming Grooming & Shavers E5,Beauty & Personal Care,412.0,706602.28,354072.2,0.5011,Hidden Gem
+PROD-1136,ArihantPub Business & Finance D4,Books & Media,620.0,686241.46,189177.58,0.2757,Underperformer
+PROD-1095,NykaaStyle Skincare E5,Beauty & Personal Care,557.0,684686.08,389099.75,0.5683,Hidden Gem
+PROD-1031,FabEthnic Ethnic Wear A1,Apparel,194.0,680929.62,447801.58,0.6576,Hidden Gem
+PROD-1145,JaicoPress Children's Books A1,Books & Media,724.0,654848.83,216761.19,0.331,Underperformer
+PROD-1117,ForestEssentials Ayurvedic Care C3,Beauty & Personal Care,549.0,653370.0,377217.28,0.5773,Hidden Gem
+PROD-1069,PrestigeLike Mixer Grinders C3,Home & Kitchen,230.0,647401.96,255015.96,0.3939,Underperformer
+PROD-1103,ForestEssentials Grooming & Shavers A1,Beauty & Personal Care,456.0,646274.06,418052.66,0.6469,Hidden Gem
+PROD-1125,HarperCollinsIN Indian Fiction E5,Books & Media,555.0,641401.82,221386.96,0.3452,Underperformer
+PROD-1143,HarperCollinsIN Self-Help E5,Books & Media,952.0,635337.14,239811.62,0.3775,Underperformer
+PROD-1139,RupaBooks Self-Help A1,Books & Media,534.0,614472.17,196203.37,0.3193,Underperformer
+PROD-1041,MetroSteps Men's Casuals E5,Apparel,346.0,572399.82,311618.87,0.5444,Hidden Gem
+PROD-1090,PrestigeLike Water Purifiers F6,Home & Kitchen,242.0,553512.96,250765.31,0.453,Hidden Gem
+PROD-1102,ForestEssentials Haircare F6,Beauty & Personal Care,362.0,550595.63,339314.13,0.6163,Hidden Gem
+PROD-1150,RupaBooks Children's Books F6,Books & Media,701.0,514061.38,180838.04,0.3518,Underperformer
+PROD-1119,ForestEssentials Ayurvedic Care E5,Beauty & Personal Care,262.0,497202.62,255111.54,0.5131,Hidden Gem
+PROD-1108,MamaearthLike Grooming & Shavers F6,Beauty & Personal Care,448.0,490038.12,305929.12,0.6243,Hidden Gem
+PROD-1129,JaicoPress Competitive Exam Prep C3,Books & Media,1759.0,484097.72,103373.84,0.2135,Underperformer
+PROD-1174,YonexPro Badminton & Tennis F6,Sports & Outdoors,271.0,467949.96,168976.02,0.3611,Underperformer
+PROD-1152,SGPro Cricket Gear B2,Sports & Outdoors,576.0,428304.72,167874.9,0.392,Underperformer
+PROD-1133,JaicoPress Business & Finance A1,Books & Media,394.0,417791.28,127118.36,0.3043,Underperformer
+PROD-1034,AllenCasual Ethnic Wear D4,Apparel,351.0,412783.59,192042.97,0.4652,Hidden Gem
+PROD-1167,SGPro Yoga Mats E5,Sports & Outdoors,99.0,396766.7,180991.7,0.4562,Hidden Gem
+PROD-1038,AllenCasual Men's Casuals B2,Apparel,139.0,389453.64,242372.89,0.6223,Hidden Gem
+PROD-1112,NykaaStyle Fragrance D4,Beauty & Personal Care,663.0,359010.82,156730.88,0.4366,Hidden Gem
+PROD-1121,JaicoPress Indian Fiction A1,Books & Media,353.0,341348.06,92946.02,0.2723,Underperformer
+PROD-1074,BajajHome Home Furnishings B2,Home & Kitchen,44.0,328258.36,176928.36,0.539,Hidden Gem
+PROD-1075,MiltonCraft Home Furnishings C3,Home & Kitchen,38.0,322896.8,148701.97,0.4605,Hidden Gem
+PROD-1116,PlumClean Ayurvedic Care B2,Beauty & Personal Care,179.0,299070.04,205419.03,0.6869,Hidden Gem
+PROD-1032,MetroSteps Ethnic Wear B2,Apparel,72.0,298481.82,185668.92,0.622,Hidden Gem
+PROD-1137,HarperCollinsIN Business & Finance E5,Books & Media,813.0,290989.39,78020.81,0.2681,Underperformer
+PROD-1086,PrestigeLike Water Purifiers B2,Home & Kitchen,142.0,264181.28,95627.88,0.362,Underperformer
+PROD-1081,MiltonCraft Decor & Lighting C3,Home & Kitchen,39.0,259900.14,132240.67,0.5088,Hidden Gem
+PROD-1092,MamaearthLike Skincare B2,Beauty & Personal Care,171.0,247212.89,166528.57,0.6736,Hidden Gem
+PROD-1158,DecathlonLike Fitness & Gym Equipment B2,Sports & Outdoors,136.0,240684.69,92994.16,0.3864,Underperformer
+PROD-1062,SolimoNest Kitchenware B2,Home & Kitchen,203.0,239218.19,68474.69,0.2862,Underperformer
+PROD-1050,FabEthnic Footwear B2,Apparel,111.0,230496.46,129054.46,0.5599,Hidden Gem
+PROD-1093,NykaaStyle Skincare C3,Beauty & Personal Care,352.0,228206.81,143155.37,0.6273,Hidden Gem
+PROD-1016,SamsungOptima Audio & Wearables D4,Electronics,98.0,220348.6,49449.49,0.2244,Underperformer
+PROD-1140,RupaBooks Self-Help B2,Books & Media,293.0,199567.25,47804.77,0.2395,Underperformer
+PROD-1176,YonexPro Outdoor Camping B2,Sports & Outdoors,86.0,191695.61,77139.87,0.4024,Underperformer
+PROD-1142,JaicoPress Self-Help D4,Books & Media,505.0,190000.52,63597.26,0.3347,Underperformer
+PROD-1013,SamsungOptima Audio & Wearables A1,Electronics,18.0,182598.47,31764.47,0.174,Underperformer
+PROD-1043,UrbanBanyan Women's Western A1,Apparel,134.0,166597.36,82426.73,0.4948,Hidden Gem
+PROD-1144,ArihantPub Self-Help F6,Books & Media,226.0,165942.21,46850.49,0.2823,Underperformer
+PROD-1100,PlumClean Haircare D4,Beauty & Personal Care,83.0,155244.32,101805.21,0.6558,Hidden Gem
+PROD-1113,BombayGrooming Fragrance E5,Beauty & Personal Care,250.0,136782.68,78217.18,0.5718,Hidden Gem
+PROD-1146,PenguinIndia Children's Books B2,Books & Media,172.0,127272.67,47452.67,0.3728,Underperformer
+PROD-1177,DecathlonLike Outdoor Camping C3,Sports & Outdoors,19.0,123560.17,66240.26,0.5361,Hidden Gem
+PROD-1128,RupaBooks Competitive Exam Prep B2,Books & Media,323.0,122670.97,38481.17,0.3137,Underperformer
+PROD-1097,ForestEssentials Haircare A1,Beauty & Personal Care,306.0,122264.52,66428.74,0.5433,Hidden Gem
+PROD-1131,ArihantPub Competitive Exam Prep E5,Books & Media,127.0,117936.62,43354.5,0.3676,Underperformer
+PROD-1149,ArihantPub Children's Books E5,Books & Media,444.0,117537.35,25386.1,0.216,Underperformer
+PROD-1127,PenguinIndia Competitive Exam Prep A1,Books & Media,305.0,101807.07,17214.27,0.1691,Underperformer
+PROD-1115,PlumClean Ayurvedic Care A1,Beauty & Personal Care,135.0,93844.89,56571.29,0.6028,Hidden Gem
+PROD-1118,NykaaStyle Ayurvedic Care D4,Beauty & Personal Care,110.0,88112.76,54486.2,0.6184,Hidden Gem
+PROD-1166,BoldFit Yoga Mats D4,Sports & Outdoors,159.0,82666.06,32906.82,0.3981,Underperformer
+PROD-1098,ForestEssentials Haircare B2,Beauty & Personal Care,314.0,80202.84,30643.35,0.3821,Underperformer
+PROD-1089,MiltonCraft Water Purifiers E5,Home & Kitchen,18.0,78273.73,27856.97,0.3559,Underperformer
+PROD-1099,ForestEssentials Haircare C3,Beauty & Personal Care,41.0,75955.59,42362.63,0.5577,Hidden Gem
+PROD-1179,SGPro Outdoor Camping E5,Sports & Outdoors,25.0,73251.24,27903.26,0.3809,Underperformer
+PROD-1055,FabEthnic Activewear A1,Apparel,105.0,72648.53,36232.53,0.4987,Hidden Gem
+PROD-1110,ForestEssentials Fragrance B2,Beauty & Personal Care,106.0,62601.21,35830.41,0.5724,Hidden Gem
+PROD-1132,HarperCollinsIN Competitive Exam Prep F6,Books & Media,116.0,59205.9,11264.38,0.1903,Underperformer
+PROD-1051,MetroSteps Footwear C3,Apparel,99.0,49931.05,26094.45,0.5226,Hidden Gem
+PROD-1105,ForestEssentials Grooming & Shavers C3,Beauty & Personal Care,27.0,46286.4,27077.65,0.585,Hidden Gem
+PROD-1039,UrbanBanyan Men's Casuals C3,Apparel,109.0,42507.89,23715.95,0.5579,Hidden Gem
+PROD-1101,BombayGrooming Haircare E5,Beauty & Personal Care,68.0,41319.18,24787.34,0.5999,Hidden Gem
+PROD-1114,ForestEssentials Fragrance F6,Beauty & Personal Care,17.0,39979.92,22818.88,0.5708,Hidden Gem
+PROD-1037,FabEthnic Men's Casuals A1,Apparel,11.0,39401.48,25015.72,0.6349,Hidden Gem
+PROD-1135,ArihantPub Business & Finance C3,Books & Media,194.0,36993.94,6466.82,0.1748,Underperformer
+PROD-1123,JaicoPress Indian Fiction C3,Books & Media,31.0,34797.28,8585.38,0.2467,Underperformer
+PROD-1014,RealmeTech Audio & Wearables B2,Electronics,2.0,33147.89,8043.27,0.2426,Underperformer
+PROD-1072,BajajHome Mixer Grinders F6,Home & Kitchen,4.0,30603.8,12548.04,0.41,Underperformer
+PROD-1147,HarperCollinsIN Children's Books C3,Books & Media,191.0,28948.39,5628.93,0.1944,Underperformer
+PROD-1111,BombayGrooming Fragrance C3,Beauty & Personal Care,32.0,24646.79,16453.75,0.6676,Hidden Gem
+PROD-1169,YonexPro Badminton & Tennis A1,Sports & Outdoors,49.0,23484.39,8612.65,0.3667,Underperformer
+PROD-1094,NykaaStyle Skincare D4,Beauty & Personal Care,29.0,20723.18,12911.93,0.6231,Hidden Gem
+PROD-1077,SolimoNest Home Furnishings E5,Home & Kitchen,2.0,6831.1,2896.5,0.424,Underperformer
+PROD-1052,UrbanBanyan Footwear D4,Apparel,3.0,3533.73,2038.28,0.5768,Hidden Gem

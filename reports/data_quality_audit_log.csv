@@ -1,0 +1,15 @@
+table_name,field_name,issue_type,action_taken,records_affected,notes
+customers,all_fields,duplicate_rows,drop_duplicates,15,Removed identical duplicate customer records.
+customers,customer_name,missing_value,fillna('Unknown Customer'),19,Imputed missing customer names.
+customers,city,missing_value,fillna('Unknown City'),23,Imputed missing customer city names.
+customers,age,outlier_value,replace_with_median(34),6,Replaced invalid age values with median age 34.
+products,category,casing_inconsistency,title_case_standardization,180,Standardized category count from 10 variations down to 6 clean categories.
+orders,all_fields,duplicate_order_lines,drop_duplicates,420,Removed identical duplicate order-line records.
+orders,order_date,malformed_date_string,quarantine_isolation,43,Moved order lines with unparseable date strings into quarantine.
+orders,quantity,invalid_quantity_value,quarantine_isolation,37,Moved order lines with quantity <= 0 into quarantine.
+orders,customer_id,missing_customer_id,"recovered=142, quarantined=68",210,Deterministically recovered 142 customer_ids from order line co-occurrences; quarantined 68 unrecoverable records.
+orders,payment_method,missing_payment_method,fillna('UPI'),226,Imputed missing order payment methods using modal payment method (UPI).
+returns,order_id,orphan_foreign_key,quarantine_isolation,4,Quarantined return records referencing non-existent orders.
+returns,return_date,invalid_date_logic,quarantine_isolation,2,Quarantined returns where return_date < order_date.
+payments,order_id,orphan_foreign_key,remove_orphans,83,Removed payment records referencing quarantined orders.
+payments,payment_status,missing_payment_status,order_lifecycle_imputation,169,Deterministically imputed missing payment_status based on order_status.

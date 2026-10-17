@@ -1,0 +1,181 @@
+product_id,product_name,category,subcategory,brand,cost_price,list_price
+PROD-1001,RealmeTech Smartphones A1,Electronics,Smartphones,RealmeTech,22232.79,31760.27
+PROD-1002,NoiseFit Smartphones B2,Electronics,Smartphones,NoiseFit,35154.69,45011.85
+PROD-1003,NoiseFit Smartphones C3,Electronics,Smartphones,NoiseFit,28991.99,36607.11
+PROD-1004,MiSmart Smartphones D4,Electronics,Smartphones,MiSmart,30919.5,44621.32
+PROD-1005,SamsungOptima Smartphones E5,Electronics,Smartphones,SamsungOptima,57820.04,71846.75
+PROD-1006,RealmeTech Smartphones F6,Electronics,Smartphones,RealmeTech,48984.1,64801.62
+PROD-1007,RealmeTech Laptops & Accessories A1,Electronics,Laptops & Accessories,RealmeTech,29914.58,36998.83
+PROD-1008,MiSmart Laptops & Accessories B2,Electronics,Laptops & Accessories,MiSmart,40633.08,51004.51
+PROD-1009,BoatWave Laptops & Accessories C3,Electronics,Laptops & Accessories,BoatWave,50957.28,67082.65
+PROD-1010,NoiseFit Laptops & Accessories D4,Electronics,Laptops & Accessories,NoiseFit,15459.15,20680.04
+PROD-1011,BoatWave Laptops & Accessories E5,Electronics,Laptops & Accessories,BoatWave,1526.4,2088.41
+PROD-1012,SamsungOptima Laptops & Accessories F6,Electronics,Laptops & Accessories,SamsungOptima,1224.27,1675.48
+PROD-1013,SamsungOptima Audio & Wearables A1,Electronics,Audio & Wearables,SamsungOptima,9369.0,11973.67
+PROD-1014,RealmeTech Audio & Wearables B2,Electronics,Audio & Wearables,RealmeTech,12488.31,16998.92
+PROD-1015,NoiseFit Audio & Wearables C3,Electronics,Audio & Wearables,NoiseFit,7894.41,10553.5
+PROD-1016,SamsungOptima Audio & Wearables D4,Electronics,Audio & Wearables,SamsungOptima,1876.99,2648.42
+PROD-1017,SamsungOptima Audio & Wearables E5,Electronics,Audio & Wearables,SamsungOptima,46774.27,65722.09
+PROD-1018,NoiseFit Audio & Wearables F6,Electronics,Audio & Wearables,NoiseFit,14250.82,18982.97
+PROD-1019,RealmeTech Smart Home A1,Electronics,Smart Home,RealmeTech,9651.79,11915.74
+PROD-1020,MiSmart Smart Home B2,Electronics,Smart Home,MiSmart,50941.34,68122.08
+PROD-1021,BoatWave Smart Home C3,Electronics,Smart Home,BoatWave,15688.23,21088.0
+PROD-1022,RealmeTech Smart Home D4,Electronics,Smart Home,RealmeTech,31820.56,43812.55
+PROD-1023,NoiseFit Smart Home E5,Electronics,Smart Home,NoiseFit,12320.09,17953.54
+PROD-1024,SamsungOptima Smart Home F6,Electronics,Smart Home,SamsungOptima,58505.32,75214.48
+PROD-1025,MiSmart Cameras A1,Electronics,Cameras,MiSmart,7705.05,10436.46
+PROD-1026,BoatWave Cameras B2,Electronics,Cameras,BoatWave,33207.42,41155.98
+PROD-1027,NoiseFit Cameras C3,Electronics,Cameras,NoiseFit,8708.81,12588.84
+PROD-1028,NoiseFit Cameras D4,Electronics,Cameras,NoiseFit,25897.94,36240.34
+PROD-1029,NoiseFit Cameras E5,Electronics,Cameras,NoiseFit,5777.73,7373.27
+PROD-1030,RealmeTech Cameras F6,Electronics,Cameras,RealmeTech,17098.78,21330.06
+PROD-1031,FabEthnic Ethnic Wear A1,Apparel,Ethnic Wear,FabEthnic,1337.03,4428.81
+PROD-1032,MetroSteps Ethnic Wear B2,Apparel,Ethnic Wear,MetroSteps,1683.66,4958.17
+PROD-1033,UrbanBanyan Ethnic Wear C3,Apparel,Ethnic Wear,UrbanBanyan,1690.41,4587.58
+PROD-1034,AllenCasual Ethnic Wear D4,Apparel,Ethnic Wear,AllenCasual,639.71,1401.88
+PROD-1035,ManyavarLike Ethnic Wear E5,Apparel,Ethnic Wear,ManyavarLike,1348.72,3413.88
+PROD-1036,AllenCasual Ethnic Wear F6,Apparel,Ethnic Wear,AllenCasual,1414.74,4278.29
+PROD-1037,FabEthnic Men's Casuals A1,Apparel,Men'S Casuals,FabEthnic,1251.16,3881.92
+PROD-1038,AllenCasual Men's Casuals B2,Apparel,Men'S Casuals,AllenCasual,1156.25,3463.35
+PROD-1039,UrbanBanyan Men's Casuals C3,Apparel,Men'S Casuals,UrbanBanyan,157.34,507.86
+PROD-1040,AllenCasual Men's Casuals D4,Apparel,Men'S Casuals,AllenCasual,1634.8,3858.99
+PROD-1041,MetroSteps Men's Casuals E5,Apparel,Men'S Casuals,MetroSteps,832.01,2099.78
+PROD-1042,FabEthnic Men's Casuals F6,Apparel,Men'S Casuals,FabEthnic,1198.01,3771.37
+PROD-1043,UrbanBanyan Women's Western A1,Apparel,Women'S Western,UrbanBanyan,657.77,1517.28
+PROD-1044,UrbanBanyan Women's Western B2,Apparel,Women'S Western,UrbanBanyan,839.43,2743.68
+PROD-1045,UrbanBanyan Women's Western C3,Apparel,Women'S Western,UrbanBanyan,571.68,1608.9
+PROD-1046,MetroSteps Women's Western D4,Apparel,Women'S Western,MetroSteps,2038.6,4614.36
+PROD-1047,ManyavarLike Women's Western E5,Apparel,Women'S Western,ManyavarLike,871.8,2464.68
+PROD-1048,AllenCasual Women's Western F6,Apparel,Women'S Western,AllenCasual,1057.82,2208.17
+PROD-1049,AllenCasual Footwear A1,Apparel,Footwear,AllenCasual,1525.08,4725.0
+PROD-1050,FabEthnic Footwear B2,Apparel,Footwear,FabEthnic,962.17,2575.38
+PROD-1051,MetroSteps Footwear C3,Apparel,Footwear,MetroSteps,254.52,660.9
+PROD-1052,UrbanBanyan Footwear D4,Apparel,Footwear,UrbanBanyan,449.15,1218.53
+PROD-1053,ManyavarLike Footwear E5,Apparel,Footwear,ManyavarLike,788.6,2419.12
+PROD-1054,AllenCasual Footwear F6,Apparel,Footwear,AllenCasual,571.16,1179.53
+PROD-1055,FabEthnic Activewear A1,Apparel,Activewear,FabEthnic,322.61,785.39
+PROD-1056,ManyavarLike Activewear B2,Apparel,Activewear,ManyavarLike,1480.78,3619.92
+PROD-1057,AllenCasual Activewear C3,Apparel,Activewear,AllenCasual,770.92,1614.08
+PROD-1058,AllenCasual Activewear D4,Apparel,Activewear,AllenCasual,1214.88,3718.63
+PROD-1059,MetroSteps Activewear E5,Apparel,Activewear,MetroSteps,1385.56,4051.79
+PROD-1060,FabEthnic Activewear F6,Apparel,Activewear,FabEthnic,1620.78,4033.7
+PROD-1061,HavellsSmart Kitchenware A1,Home & Kitchen,Kitchenware,HavellsSmart,4033.24,7731.45
+PROD-1062,SolimoNest Kitchenware B2,Home & Kitchen,Kitchenware,SolimoNest,950.35,1541.85
+PROD-1063,BajajHome Kitchenware C3,Home & Kitchen,Kitchenware,BajajHome,7459.04,14773.92
+PROD-1064,PrestigeLike Kitchenware D4,Home & Kitchen,Kitchenware,PrestigeLike,9079.69,14690.67
+PROD-1065,BajajHome Kitchenware E5,Home & Kitchen,Kitchenware,BajajHome,1289.62,2512.36
+PROD-1066,PrestigeLike Kitchenware F6,Home & Kitchen,Kitchenware,PrestigeLike,5679.62,11866.45
+PROD-1067,PrestigeLike Mixer Grinders A1,Home & Kitchen,Mixer Grinders,PrestigeLike,8650.36,14893.74
+PROD-1068,PrestigeLike Mixer Grinders B2,Home & Kitchen,Mixer Grinders,PrestigeLike,6794.67,11836.62
+PROD-1069,PrestigeLike Mixer Grinders C3,Home & Kitchen,Mixer Grinders,PrestigeLike,1912.84,3502.31
+PROD-1070,MiltonCraft Mixer Grinders D4,Home & Kitchen,Mixer Grinders,MiltonCraft,4067.37,7061.52
+PROD-1071,SolimoNest Mixer Grinders E5,Home & Kitchen,Mixer Grinders,SolimoNest,2906.46,6040.9
+PROD-1072,BajajHome Mixer Grinders F6,Home & Kitchen,Mixer Grinders,BajajHome,4457.19,8620.79
+PROD-1073,SolimoNest Home Furnishings A1,Home & Kitchen,Home Furnishings,SolimoNest,1160.94,2337.25
+PROD-1074,BajajHome Home Furnishings B2,Home & Kitchen,Home Furnishings,BajajHome,3725.6,8824.15
+PROD-1075,MiltonCraft Home Furnishings C3,Home & Kitchen,Home Furnishings,MiltonCraft,5238.51,10656.66
+PROD-1076,HavellsSmart Home Furnishings D4,Home & Kitchen,Home Furnishings,HavellsSmart,4092.08,8256.6
+PROD-1077,SolimoNest Home Furnishings E5,Home & Kitchen,Home Furnishings,SolimoNest,1903.3,4140.06
+PROD-1078,SolimoNest Home Furnishings F6,Home & Kitchen,Home Furnishings,SolimoNest,2859.54,6423.69
+PROD-1079,PrestigeLike Decor & Lighting A1,Home & Kitchen,Decor & Lighting,PrestigeLike,4146.89,6756.6
+PROD-1080,HavellsSmart Decor & Lighting B2,Home & Kitchen,Decor & Lighting,HavellsSmart,3842.96,8776.48
+PROD-1081,MiltonCraft Decor & Lighting C3,Home & Kitchen,Decor & Lighting,MiltonCraft,3825.59,8507.37
+PROD-1082,SolimoNest Decor & Lighting D4,Home & Kitchen,Decor & Lighting,SolimoNest,5882.77,11513.75
+PROD-1083,HavellsSmart Decor & Lighting E5,Home & Kitchen,Decor & Lighting,HavellsSmart,4810.29,10015.26
+PROD-1084,HavellsSmart Decor & Lighting F6,Home & Kitchen,Decor & Lighting,HavellsSmart,5849.0,12822.64
+PROD-1085,BajajHome Water Purifiers A1,Home & Kitchen,Water Purifiers,BajajHome,5440.76,9128.79
+PROD-1086,PrestigeLike Water Purifiers B2,Home & Kitchen,Water Purifiers,PrestigeLike,1305.85,2301.23
+PROD-1087,MiltonCraft Water Purifiers C3,Home & Kitchen,Water Purifiers,MiltonCraft,2382.29,5384.6
+PROD-1088,PrestigeLike Water Purifiers D4,Home & Kitchen,Water Purifiers,PrestigeLike,7004.65,14883.84
+PROD-1089,MiltonCraft Water Purifiers E5,Home & Kitchen,Water Purifiers,MiltonCraft,3129.36,5590.98
+PROD-1090,PrestigeLike Water Purifiers F6,Home & Kitchen,Water Purifiers,PrestigeLike,1309.55,2662.4
+PROD-1091,NykaaStyle Skincare A1,Beauty & Personal Care,Skincare,NykaaStyle,360.05,1339.79
+PROD-1092,MamaearthLike Skincare B2,Beauty & Personal Care,Skincare,MamaearthLike,505.34,1795.3
+PROD-1093,NykaaStyle Skincare C3,Beauty & Personal Care,Skincare,NykaaStyle,219.37,792.11
+PROD-1094,NykaaStyle Skincare D4,Beauty & Personal Care,Skincare,NykaaStyle,272.45,895.17
+PROD-1095,NykaaStyle Skincare E5,Beauty & Personal Care,Skincare,NykaaStyle,538.19,1468.81
+PROD-1096,PlumClean Skincare F6,Beauty & Personal Care,Skincare,PlumClean,737.7,2036.9
+PROD-1097,ForestEssentials Haircare A1,Beauty & Personal Care,Haircare,ForestEssentials,166.34,495.6
+PROD-1098,ForestEssentials Haircare B2,Beauty & Personal Care,Haircare,ForestEssentials,127.29,308.77
+PROD-1099,ForestEssentials Haircare C3,Beauty & Personal Care,Haircare,ForestEssentials,888.61,2315.72
+PROD-1100,PlumClean Haircare D4,Beauty & Personal Care,Haircare,PlumClean,679.07,2266.34
+PROD-1101,BombayGrooming Haircare E5,Beauty & Personal Care,Haircare,BombayGrooming,240.64,771.6
+PROD-1102,ForestEssentials Haircare F6,Beauty & Personal Care,Haircare,ForestEssentials,664.1,2006.91
+PROD-1103,ForestEssentials Grooming & Shavers A1,Beauty & Personal Care,Grooming & Shavers,ForestEssentials,541.44,1812.83
+PROD-1104,NykaaStyle Grooming & Shavers B2,Beauty & Personal Care,Grooming & Shavers,NykaaStyle,549.7,1631.06
+PROD-1105,ForestEssentials Grooming & Shavers C3,Beauty & Personal Care,Grooming & Shavers,ForestEssentials,722.11,1940.73
+PROD-1106,NykaaStyle Grooming & Shavers D4,Beauty & Personal Care,Grooming & Shavers,NykaaStyle,644.76,1950.3
+PROD-1107,BombayGrooming Grooming & Shavers E5,Beauty & Personal Care,Grooming & Shavers,BombayGrooming,994.16,2296.4
+PROD-1108,MamaearthLike Grooming & Shavers F6,Beauty & Personal Care,Grooming & Shavers,MamaearthLike,412.7,1333.8
+PROD-1109,MamaearthLike Fragrance A1,Beauty & Personal Care,Fragrance,MamaearthLike,859.21,2480.99
+PROD-1110,ForestEssentials Fragrance B2,Beauty & Personal Care,Fragrance,ForestEssentials,227.6,706.56
+PROD-1111,BombayGrooming Fragrance C3,Beauty & Personal Care,Fragrance,BombayGrooming,403.16,1339.5
+PROD-1112,NykaaStyle Fragrance D4,Beauty & Personal Care,Fragrance,NykaaStyle,292.79,667.43
+PROD-1113,BombayGrooming Fragrance E5,Beauty & Personal Care,Fragrance,BombayGrooming,226.35,696.45
+PROD-1114,ForestEssentials Fragrance F6,Beauty & Personal Care,Fragrance,ForestEssentials,971.12,2437.8
+PROD-1115,PlumClean Ayurvedic Care A1,Beauty & Personal Care,Ayurvedic Care,PlumClean,263.18,845.45
+PROD-1116,PlumClean Ayurvedic Care B2,Beauty & Personal Care,Ayurvedic Care,PlumClean,529.41,1978.63
+PROD-1117,ForestEssentials Ayurvedic Care C3,Beauty & Personal Care,Ayurvedic Care,ForestEssentials,497.24,1416.06
+PROD-1118,NykaaStyle Ayurvedic Care D4,Beauty & Personal Care,Ayurvedic Care,NykaaStyle,262.07,901.87
+PROD-1119,ForestEssentials Ayurvedic Care E5,Beauty & Personal Care,Ayurvedic Care,ForestEssentials,1010.52,2323.92
+PROD-1120,ForestEssentials Ayurvedic Care F6,Beauty & Personal Care,Ayurvedic Care,ForestEssentials,788.84,2331.17
+PROD-1121,JaicoPress Indian Fiction A1,Books & Media,Indian Fiction,JaicoPress,737.44,1168.4
+PROD-1122,RupaBooks Indian Fiction B2,Books & Media,Indian Fiction,RupaBooks,206.05,355.79
+PROD-1123,JaicoPress Indian Fiction C3,Books & Media,Indian Fiction,JaicoPress,825.23,1328.14
+PROD-1124,JaicoPress Indian Fiction D4,Books & Media,Indian Fiction,JaicoPress,185.88,369.19
+PROD-1125,HarperCollinsIN Indian Fiction E5,Books & Media,Indian Fiction,HarperCollinsIN,786.86,1384.57
+PROD-1126,RupaBooks Indian Fiction F6,Books & Media,Indian Fiction,RupaBooks,521.82,931.84
+PROD-1127,PenguinIndia Competitive Exam Prep A1,Books & Media,Competitive Exam Prep,PenguinIndia,272.93,428.03
+PROD-1128,RupaBooks Competitive Exam Prep B2,Books & Media,Competitive Exam Prep,RupaBooks,255.31,481.44
+PROD-1129,JaicoPress Competitive Exam Prep C3,Books & Media,Competitive Exam Prep,JaicoPress,201.28,344.15
+PROD-1130,HarperCollinsIN Competitive Exam Prep D4,Books & Media,Competitive Exam Prep,HarperCollinsIN,856.21,1447.08
+PROD-1131,ArihantPub Competitive Exam Prep E5,Books & Media,Competitive Exam Prep,ArihantPub,637.64,1181.73
+PROD-1132,HarperCollinsIN Competitive Exam Prep F6,Books & Media,Competitive Exam Prep,HarperCollinsIN,385.19,611.0
+PROD-1133,JaicoPress Business & Finance A1,Books & Media,Business & Finance,JaicoPress,802.76,1323.8
+PROD-1134,HarperCollinsIN Business & Finance B2,Books & Media,Business & Finance,HarperCollinsIN,769.24,1235.81
+PROD-1135,ArihantPub Business & Finance C3,Books & Media,Business & Finance,ArihantPub,121.46,235.48
+PROD-1136,ArihantPub Business & Finance D4,Books & Media,Business & Finance,ArihantPub,850.94,1350.47
+PROD-1137,HarperCollinsIN Business & Finance E5,Books & Media,Business & Finance,HarperCollinsIN,249.47,441.06
+PROD-1138,HarperCollinsIN Business & Finance F6,Books & Media,Business & Finance,HarperCollinsIN,469.34,849.43
+PROD-1139,RupaBooks Self-Help A1,Books & Media,Self-Help,RupaBooks,819.2,1387.54
+PROD-1140,RupaBooks Self-Help B2,Books & Media,Self-Help,RupaBooks,559.52,865.99
+PROD-1141,RupaBooks Self-Help C3,Books & Media,Self-Help,RupaBooks,225.66,419.34
+PROD-1142,JaicoPress Self-Help D4,Books & Media,Self-Help,JaicoPress,240.51,479.86
+PROD-1143,HarperCollinsIN Self-Help E5,Books & Media,Self-Help,HarperCollinsIN,430.12,831.92
+PROD-1144,ArihantPub Self-Help F6,Books & Media,Self-Help,ArihantPub,537.18,888.58
+PROD-1145,JaicoPress Children's Books A1,Books & Media,Children'S Books,JaicoPress,665.72,1156.16
+PROD-1146,PenguinIndia Children's Books B2,Books & Media,Children'S Books,PenguinIndia,487.16,922.6
+PROD-1147,HarperCollinsIN Children's Books C3,Books & Media,Children'S Books,HarperCollinsIN,109.82,202.72
+PROD-1148,JaicoPress Children's Books D4,Books & Media,Children'S Books,JaicoPress,700.88,1173.11
+PROD-1149,ArihantPub Children's Books E5,Books & Media,Children'S Books,ArihantPub,179.25,317.54
+PROD-1150,RupaBooks Children's Books F6,Books & Media,Children'S Books,RupaBooks,483.47,900.44
+PROD-1151,YonexPro Cricket Gear A1,Sports & Outdoors,Cricket Gear,YonexPro,3943.26,8550.03
+PROD-1152,SGPro Cricket Gear B2,Sports & Outdoors,Cricket Gear,SGPro,480.02,945.59
+PROD-1153,YonexPro Cricket Gear C3,Sports & Outdoors,Cricket Gear,YonexPro,2098.84,4800.53
+PROD-1154,DecathlonLike Cricket Gear D4,Sports & Outdoors,Cricket Gear,DecathlonLike,881.26,2062.62
+PROD-1155,DecathlonLike Cricket Gear E5,Sports & Outdoors,Cricket Gear,DecathlonLike,3727.78,7960.27
+PROD-1156,NiviaSports Cricket Gear F6,Sports & Outdoors,Cricket Gear,NiviaSports,4867.45,9136.72
+PROD-1157,SGPro Fitness & Gym Equipment A1,Sports & Outdoors,Fitness & Gym Equipment,SGPro,2870.14,6788.85
+PROD-1158,DecathlonLike Fitness & Gym Equipment B2,Sports & Outdoors,Fitness & Gym Equipment,DecathlonLike,1148.11,2102.05
+PROD-1159,YonexPro Fitness & Gym Equipment C3,Sports & Outdoors,Fitness & Gym Equipment,YonexPro,3390.14,8185.85
+PROD-1160,NiviaSports Fitness & Gym Equipment D4,Sports & Outdoors,Fitness & Gym Equipment,NiviaSports,3549.61,6968.04
+PROD-1161,NiviaSports Fitness & Gym Equipment E5,Sports & Outdoors,Fitness & Gym Equipment,NiviaSports,1613.55,3636.76
+PROD-1162,DecathlonLike Fitness & Gym Equipment F6,Sports & Outdoors,Fitness & Gym Equipment,DecathlonLike,909.57,1909.85
+PROD-1163,DecathlonLike Yoga Mats A1,Sports & Outdoors,Yoga Mats,DecathlonLike,2651.13,5440.53
+PROD-1164,BoldFit Yoga Mats B2,Sports & Outdoors,Yoga Mats,BoldFit,4662.74,8991.4
+PROD-1165,DecathlonLike Yoga Mats C3,Sports & Outdoors,Yoga Mats,DecathlonLike,2361.02,4548.02
+PROD-1166,BoldFit Yoga Mats D4,Sports & Outdoors,Yoga Mats,BoldFit,287.13,622.72
+PROD-1167,SGPro Yoga Mats E5,Sports & Outdoors,Yoga Mats,SGPro,2462.0,4859.36
+PROD-1168,YonexPro Yoga Mats F6,Sports & Outdoors,Yoga Mats,YonexPro,5572.78,9646.03
+PROD-1169,YonexPro Badminton & Tennis A1,Sports & Outdoors,Badminton & Tennis,YonexPro,333.66,641.65
+PROD-1170,BoldFit Badminton & Tennis B2,Sports & Outdoors,Badminton & Tennis,BoldFit,2013.35,3384.21
+PROD-1171,YonexPro Badminton & Tennis C3,Sports & Outdoors,Badminton & Tennis,YonexPro,517.08,1257.46
+PROD-1172,BoldFit Badminton & Tennis D4,Sports & Outdoors,Badminton & Tennis,BoldFit,296.43,682.63
+PROD-1173,BoldFit Badminton & Tennis E5,Sports & Outdoors,Badminton & Tennis,BoldFit,3411.09,5822.84
+PROD-1174,YonexPro Badminton & Tennis F6,Sports & Outdoors,Badminton & Tennis,YonexPro,1267.22,2205.23
+PROD-1175,BoldFit Outdoor Camping A1,Sports & Outdoors,Outdoor Camping,BoldFit,4314.81,7273.65
+PROD-1176,YonexPro Outdoor Camping B2,Sports & Outdoors,Outdoor Camping,YonexPro,1439.62,2722.95
+PROD-1177,DecathlonLike Outdoor Camping C3,Sports & Outdoors,Outdoor Camping,DecathlonLike,3329.23,7845.09
+PROD-1178,DecathlonLike Outdoor Camping D4,Sports & Outdoors,Outdoor Camping,DecathlonLike,1093.16,2298.15
+PROD-1179,SGPro Outdoor Camping E5,Sports & Outdoors,Outdoor Camping,SGPro,2101.38,3825.13
+PROD-1180,DecathlonLike Outdoor Camping F6,Sports & Outdoors,Outdoor Camping,DecathlonLike,228.34,555.74

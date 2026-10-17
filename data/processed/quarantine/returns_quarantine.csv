@@ -1,0 +1,7 @@
+return_id,order_id,return_date,quantity_returned,return_reason,quarantine_reason
+RET-300449,ORD-105594,2023-11-02,1,Defective Product,Orphan return record (order_id not in processed orders)
+RET-302013,ORD-125284,2025-12-02,1,Late Delivery,Orphan return record (order_id not in processed orders)
+RET-304076,ORD-149652,2024-04-30,1,Wrong Size/Color,Orphan return record (order_id not in processed orders)
+RET-305479,ORD-151514,2024-11-01,2,Changed Mind,Orphan return record (order_id not in processed orders)
+RET-300366,ORD-104319,2024-06-24,1,Changed Mind,Return date precedes order date or malformed
+RET-302961,ORD-136571,2024-06-20,1,Wrong Size/Color,Return date precedes order date or malformed

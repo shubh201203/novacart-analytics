@@ -1,0 +1,6 @@
+Table,Raw Rows,Processed Rows,Quarantined Rows,Duplicates Removed,Missing Resolved
+Customers,5015,5000,0,15,43
+Products,180,180,0,0,0
+Orders,105420,104852,148,420,227
+Returns,5798,5792,6,0,0
+Payments,63035,62952,0,0,170

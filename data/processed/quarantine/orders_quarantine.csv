@@ -1,0 +1,149 @@
+order_id,order_date,customer_id,product_id,quantity,unit_price,discount,shipping_cost,payment_method,order_status,quarantine_reason
+ORD-102093,2024-02-30,CUST-11316,PROD-1023,1,17953.54,0.4,0.0,UPI,Completed,Malformed order date string
+ORD-102114,2024-02-30,CUST-12618,PROD-1180,2,555.74,0.0,49.0,UPI,Completed,Malformed order date string
+ORD-103044,2024-02-30,CUST-12580,PROD-1007,2,36998.83,0.05,0.0,UPI,Completed,Malformed order date string
+ORD-103626,2024-02-30,CUST-13525,PROD-1150,2,900.44,0.0,49.0,Cash on Delivery,Completed,Malformed order date string
+ORD-104319,2024-02-30,CUST-14897,PROD-1004,1,44621.32,0.3,79.0,UPI,Returned,Malformed order date string
+ORD-104575,2024-02-30,CUST-10224,PROD-1067,1,14893.74,0.0,149.0,UPI,Completed,Malformed order date string
+ORD-109959,2024-02-30,CUST-14343,PROD-1024,1,75214.48,0.0,0.0,Credit Card,Completed,Malformed order date string
+ORD-112573,2024-02-30,CUST-14797,PROD-1042,1,3771.37,0.0,99.0,Cash on Delivery,Completed,Malformed order date string
+ORD-112801,2024-02-30,CUST-11352,PROD-1104,1,1631.06,0.25,0.0,UPI,Completed,Malformed order date string
+ORD-113099,2024-02-30,CUST-10386,PROD-1047,2,2464.68,0.05,0.0,UPI,Completed,Malformed order date string
+ORD-113501,2024-02-30,CUST-10113,PROD-1017,1,65722.09,0.0,49.0,Credit Card,Completed,Malformed order date string
+ORD-115227,2024-02-30,CUST-10327,PROD-1084,5,12822.64,0.1,0.0,Cash on Delivery,Completed,Malformed order date string
+ORD-115902,2024-02-30,CUST-13756,PROD-1011,1,2088.41,0.0,49.0,Credit Card,Completed,Malformed order date string
+ORD-116005,2024-02-30,CUST-12924,PROD-1138,2,849.43,0.2,79.0,UPI,Shipped,Malformed order date string
+ORD-116876,2024-02-30,CUST-13755,PROD-1054,3,1179.53,0.05,0.0,Debit Card,Completed,Malformed order date string
+ORD-117696,2024-02-30,CUST-14343,PROD-1141,1,419.34,0.0,149.0,Cash on Delivery,Completed,Malformed order date string
+ORD-118440,2024-02-30,CUST-13707,PROD-1054,1,1179.53,0.0,49.0,Credit Card,Processing,Malformed order date string
+ORD-120576,2024-02-30,CUST-12505,PROD-1122,2,355.79,0.1,99.0,UPI,Completed,Malformed order date string
+ORD-121668,2024-02-30,CUST-13695,PROD-1097,1,495.6,0.15,0.0,UPI,Completed,Malformed order date string
+ORD-125123,2024-02-30,CUST-10798,PROD-1011,1,2088.41,0.15,79.0,UPI,Completed,Malformed order date string
+ORD-125915,2024-02-30,CUST-14687,PROD-1087,5,5384.6,0.15,99.0,UPI,Completed,Malformed order date string
+ORD-127953,2024-02-30,CUST-12867,PROD-1180,1,555.74,0.0,49.0,UPI,Completed,Malformed order date string
+ORD-130614,2024-02-30,CUST-12082,PROD-1018,1,18982.97,0.0,149.0,UPI,Shipped,Malformed order date string
+ORD-131771,2024-02-30,CUST-13695,PROD-1180,1,555.74,0.0,79.0,UPI,Completed,Malformed order date string
+ORD-132294,2024-02-30,CUST-14343,PROD-1043,1,1517.28,0.05,149.0,Credit Card,Completed,Malformed order date string
+ORD-136571,2024-02-30,CUST-10936,PROD-1138,1,849.43,0.0,99.0,UPI,Returned,Malformed order date string
+ORD-142335,2024-02-30,CUST-13870,PROD-1042,1,3771.37,0.0,99.0,UPI,Cancelled,Malformed order date string
+ORD-143173,2024-02-30,CUST-12082,PROD-1060,1,4033.7,0.1,149.0,UPI,Completed,Malformed order date string
+ORD-143617,2024-02-30,CUST-12471,PROD-1134,1,1235.81,0.1,79.0,UPI,Completed,Malformed order date string
+ORD-143847,2024-02-30,CUST-11990,PROD-1042,1,3771.37,0.1,0.0,UPI,Completed,Malformed order date string
+ORD-143902,2024-02-30,CUST-13983,PROD-1133,1,1323.8,0.15,99.0,Cash on Delivery,Cancelled,Malformed order date string
+ORD-144181,2024-02-30,CUST-10839,PROD-1124,1,369.19,0.05,99.0,UPI,Completed,Malformed order date string
+ORD-145142,2024-02-30,CUST-12637,PROD-1011,1,2088.41,0.05,49.0,Credit Card,Completed,Malformed order date string
+ORD-146634,2024-02-30,CUST-14398,PROD-1085,1,9128.79,0.0,79.0,UPI,Completed,Malformed order date string
+ORD-146907,2024-02-30,CUST-12311,PROD-1106,1,1950.3,0.05,149.0,Debit Card,Completed,Malformed order date string
+ORD-147011,2024-02-30,CUST-14343,PROD-1152,1,945.59,0.0,49.0,UPI,Completed,Malformed order date string
+ORD-148881,2024-02-30,CUST-12784,PROD-1087,2,5384.6,0.05,99.0,UPI,Completed,Malformed order date string
+ORD-154762,2024-02-30,CUST-14035,PROD-1180,1,555.74,0.0,79.0,UPI,Completed,Malformed order date string
+ORD-157888,2024-02-30,CUST-11801,PROD-1060,1,4033.7,0.2,49.0,Cash on Delivery,Completed,Malformed order date string
+ORD-160033,2024-02-30,CUST-10330,PROD-1011,1,2088.41,0.2,149.0,UPI,Completed,Malformed order date string
+ORD-160216,2024-02-30,CUST-11006,PROD-1172,1,682.63,0.0,99.0,UPI,Shipped,Malformed order date string
+ORD-160553,2024-02-30,CUST-10529,PROD-1078,1,6423.69,0.0,49.0,Cash on Delivery,Completed,Malformed order date string
+ORD-161029,2024-02-30,CUST-13253,PROD-1168,1,9646.03,0.3,0.0,UPI,Completed,Malformed order date string
+ORD-104884,2025-11-11,CUST-13695,PROD-1011,-1,2088.41,0.1,149.0,Debit Card,Completed,Non-positive item quantity (<=0)
+ORD-105240,2024-01-24,CUST-14257,PROD-1062,-1,1541.85,0.2,149.0,Cash on Delivery,Shipped,Non-positive item quantity (<=0)
+ORD-105975,2023-12-11,CUST-12674,PROD-1122,0,355.79,0.0,49.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-106933,2023-12-12,CUST-11622,PROD-1067,0,14893.74,0.05,49.0,Credit Card,Shipped,Non-positive item quantity (<=0)
+ORD-111339,2023-11-09,CUST-10985,PROD-1180,0,555.74,0.25,99.0,UPI,Cancelled,Non-positive item quantity (<=0)
+ORD-113270,2025-07-05,CUST-13081,PROD-1122,-1,355.79,0.0,99.0,Credit Card,Completed,Non-positive item quantity (<=0)
+ORD-113525,2025-07-18,CUST-12075,PROD-1172,-1,682.63,0.0,0.0,Credit Card,Returned,Non-positive item quantity (<=0)
+ORD-113702,2024-04-06,CUST-10685,PROD-1178,0,2298.15,0.1,0.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-113735,2025-12-01,CUST-14771,PROD-1011,-1,2088.41,0.0,0.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-118233,2024-10-06,CUST-13151,PROD-1049,0,4725.0,0.05,49.0,Cash on Delivery,Completed,Non-positive item quantity (<=0)
+ORD-121137,2023-02-25,CUST-12949,PROD-1078,-1,6423.69,0.0,99.0,UPI,Shipped,Non-positive item quantity (<=0)
+ORD-124137,2025-10-06,CUST-13935,PROD-1073,0,2337.25,0.0,79.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-125284,2025-11-17,CUST-10149,PROD-1104,-1,1631.06,0.0,0.0,UPI,Returned,Non-positive item quantity (<=0)
+ORD-125518,2025-07-29,CUST-12210,PROD-1060,-1,4033.7,0.0,0.0,Debit Card,Completed,Non-positive item quantity (<=0)
+ORD-126321,2025-04-26,CUST-10386,PROD-1018,0,18982.97,0.0,99.0,UPI,Returned,Non-positive item quantity (<=0)
+ORD-128727,2025-01-24,CUST-13695,PROD-1170,-1,3384.21,0.05,49.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-128927,2024-02-05,CUST-13114,PROD-1180,-1,555.74,0.0,149.0,Cash on Delivery,Completed,Non-positive item quantity (<=0)
+ORD-128995,2024-04-30,CUST-11183,PROD-1107,0,2296.4,0.05,99.0,Cash on Delivery,Completed,Non-positive item quantity (<=0)
+ORD-132137,2023-04-23,CUST-14137,PROD-1103,0,1812.83,0.1,149.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-134669,2025-08-15,CUST-13455,PROD-1171,-1,1257.46,0.2,79.0,Credit Card,Completed,Non-positive item quantity (<=0)
+ORD-136058,2025-03-09,CUST-13499,PROD-1145,-1,1156.16,0.25,99.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-136376,2023-10-23,,PROD-1012,-1,1675.48,0.0,79.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-139210,2024-08-04,CUST-10386,PROD-1080,-1,8776.48,0.0,0.0,Digital Wallet,Completed,Non-positive item quantity (<=0)
+ORD-139651,2024-03-08,CUST-13345,PROD-1064,0,14690.67,0.15,99.0,UPI,Cancelled,Non-positive item quantity (<=0)
+ORD-140667,2023-10-03,CUST-14236,PROD-1096,-1,2036.9,0.15,79.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-142859,2024-04-20,CUST-12183,PROD-1098,-1,308.77,0.0,149.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-144832,2025-12-21,CUST-14771,PROD-1029,0,7373.27,0.1,149.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-149684,2025-09-28,CUST-13670,PROD-1011,0,2088.41,0.0,79.0,Credit Card,Completed,Non-positive item quantity (<=0)
+ORD-153044,2024-11-05,CUST-14080,PROD-1130,0,1447.08,0.05,0.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-153081,2023-03-16,CUST-10382,PROD-1178,0,2298.15,0.0,79.0,Credit Card,Completed,Non-positive item quantity (<=0)
+ORD-153222,2023-03-06,CUST-14007,PROD-1113,-1,696.45,0.1,49.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-153448,2023-09-27,CUST-14035,PROD-1054,0,1179.53,0.05,49.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-158482,2025-09-14,CUST-13695,PROD-1058,0,3718.63,0.0,49.0,Cash on Delivery,Completed,Non-positive item quantity (<=0)
+ORD-159539,2025-06-05,CUST-14868,PROD-1008,-1,51004.51,0.0,149.0,Cash on Delivery,Completed,Non-positive item quantity (<=0)
+ORD-159846,2024-05-06,CUST-14382,PROD-1080,0,8776.48,0.05,99.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-160098,2024-11-05,CUST-11722,PROD-1067,-1,14893.74,0.25,149.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-161472,2023-09-05,CUST-11195,PROD-1011,0,2088.41,0.05,49.0,UPI,Completed,Non-positive item quantity (<=0)
+ORD-100145,2023-08-11,,PROD-1066,1,11866.45,0.0,149.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-100298,2025-04-23,,PROD-1041,2,2099.78,0.2,149.0,Digital Wallet,Completed,Unrecoverable missing customer_id
+ORD-100658,2025-10-16,,PROD-1112,1,667.43,0.2,149.0,Credit Card,Completed,Unrecoverable missing customer_id
+ORD-101347,2024-04-25,,PROD-1007,1,36998.83,0.0,99.0,Net Banking,Shipped,Unrecoverable missing customer_id
+ORD-101770,2025-09-09,,PROD-1036,1,4278.29,0.05,99.0,UPI,Processing,Unrecoverable missing customer_id
+ORD-102811,2023-12-01,,PROD-1073,2,2337.25,0.25,49.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-104015,2023-03-02,,PROD-1011,1,2088.41,0.0,49.0,Net Banking,Completed,Unrecoverable missing customer_id
+ORD-104287,2024-10-05,,PROD-1080,1,8776.48,0.05,149.0,UPI,Shipped,Unrecoverable missing customer_id
+ORD-105594,2023-10-26,,PROD-1056,1,3619.92,0.0,0.0,UPI,Returned,Unrecoverable missing customer_id
+ORD-105780,2025-08-17,,PROD-1042,1,3771.37,0.1,149.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-106299,2024-12-04,,PROD-1162,2,1909.85,0.0,79.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-107499,2024-05-24,,PROD-1141,1,419.34,0.1,49.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-108449,2023-08-18,,PROD-1080,1,8776.48,0.0,0.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-108923,2025-07-25,,PROD-1070,2,7061.52,0.05,99.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-113154,2024-09-22,,PROD-1175,1,7273.65,0.0,49.0,UPI,Processing,Unrecoverable missing customer_id
+ORD-113692,2025-02-05,,PROD-1121,1,1168.4,0.25,79.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-113858,2023-09-10,,PROD-1011,2,2088.41,0.0,99.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-114369,2025-11-10,,PROD-1023,1,17953.54,0.05,99.0,Credit Card,Completed,Unrecoverable missing customer_id
+ORD-115036,2024-05-20,,PROD-1113,1,696.45,0.05,49.0,UPI,Shipped,Unrecoverable missing customer_id
+ORD-116461,2024-10-11,,PROD-1017,2,65722.09,0.1,149.0,Credit Card,Completed,Unrecoverable missing customer_id
+ORD-116700,2025-02-19,,PROD-1059,1,4051.79,0.3,149.0,Net Banking,Completed,Unrecoverable missing customer_id
+ORD-118086,2023-08-31,,PROD-1010,3,20680.04,0.05,0.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-119744,2024-10-11,,PROD-1078,2,6423.69,0.05,99.0,Credit Card,Completed,Unrecoverable missing customer_id
+ORD-119859,2024-12-23,,PROD-1107,2,2296.4,0.0,0.0,Debit Card,Completed,Unrecoverable missing customer_id
+ORD-119957,2025-10-20,,PROD-1047,1,2464.68,0.1,99.0,Net Banking,Completed,Unrecoverable missing customer_id
+ORD-119997,2023-08-17,,PROD-1080,1,8776.48,0.25,149.0,Credit Card,Completed,Unrecoverable missing customer_id
+ORD-120520,2024-11-05,,PROD-1048,1,2208.17,0.15,149.0,UPI,Shipped,Unrecoverable missing customer_id
+ORD-120962,2025-12-27,,PROD-1139,1,1387.54,0.0,149.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-123142,2023-12-08,,PROD-1155,1,7960.27,0.0,99.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-123708,2025-02-06,,PROD-1130,2,1447.08,0.0,99.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-124708,2025-05-05,,PROD-1180,1,555.74,0.1,49.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-124779,2025-10-04,,PROD-1047,5,2464.68,0.1,0.0,Debit Card,Completed,Unrecoverable missing customer_id
+ORD-128139,2025-08-24,,PROD-1049,1,4725.0,0.0,49.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-128387,2025-12-28,,PROD-1145,3,1156.16,0.0,49.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-130376,2024-09-02,,PROD-1011,1,2088.41,0.1,0.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-132496,2023-04-28,,PROD-1172,3,682.63,0.05,49.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-134393,2025-09-05,,PROD-1006,2,64801.62,0.05,0.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-134793,2025-02-08,,PROD-1180,1,555.74,0.0,0.0,Cash on Delivery,Shipped,Unrecoverable missing customer_id
+ORD-135245,2025-09-25,,PROD-1080,1,8776.48,0.15,99.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-136520,2024-07-11,,PROD-1180,1,555.74,0.05,79.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-136648,2023-10-29,,PROD-1119,1,2323.92,0.05,49.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-137273,2025-03-19,,PROD-1060,1,4033.7,0.15,49.0,Credit Card,Completed,Unrecoverable missing customer_id
+ORD-137919,2024-12-15,,PROD-1127,5,428.03,0.0,79.0,Digital Wallet,Completed,Unrecoverable missing customer_id
+ORD-138269,2024-11-04,,PROD-1047,1,2464.68,0.15,49.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-139763,2023-10-02,,PROD-1011,1,2088.41,0.1,79.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-139805,2025-05-28,,PROD-1116,1,1978.63,0.0,149.0,Debit Card,Shipped,Unrecoverable missing customer_id
+ORD-143655,2024-08-12,,PROD-1149,3,317.54,0.15,79.0,UPI,Processing,Unrecoverable missing customer_id
+ORD-144027,2023-05-14,,PROD-1180,2,555.74,0.0,79.0,Debit Card,Completed,Unrecoverable missing customer_id
+ORD-144632,2025-08-19,,PROD-1011,3,2088.41,0.05,99.0,UPI,Cancelled,Unrecoverable missing customer_id
+ORD-145989,2025-11-07,,PROD-1180,1,555.74,0.0,79.0,Debit Card,Completed,Unrecoverable missing customer_id
+ORD-146124,2025-01-24,,PROD-1169,1,641.65,0.05,99.0,Credit Card,Completed,Unrecoverable missing customer_id
+ORD-146430,2024-09-12,,PROD-1030,1,21330.06,0.0,0.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-146586,2024-05-07,,PROD-1047,1,2464.68,0.1,79.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-147575,2023-09-30,,PROD-1173,1,5822.84,0.0,99.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-147796,2024-09-25,,PROD-1104,1,1631.06,0.0,79.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-148120,2023-10-15,,PROD-1006,1,64801.62,0.0,0.0,UPI,Cancelled,Unrecoverable missing customer_id
+ORD-148804,2023-11-14,,PROD-1083,1,10015.26,0.1,79.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-149652,2024-04-17,,PROD-1044,1,2743.68,0.1,79.0,Cash on Delivery,Returned,Unrecoverable missing customer_id
+ORD-149675,2024-08-20,,PROD-1141,1,419.34,0.0,49.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-150621,2024-09-05,,PROD-1053,1,2419.12,0.05,79.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-151514,2024-10-21,,PROD-1121,2,1168.4,0.1,79.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-152609,2024-12-21,,PROD-1047,1,2464.68,0.0,79.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-155084,2024-02-07,,PROD-1169,1,641.65,0.05,79.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-155128,2023-02-11,,PROD-1060,1,4033.7,0.0,149.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-155153,2024-12-27,,PROD-1136,1,1350.47,0.1,149.0,Cash on Delivery,Completed,Unrecoverable missing customer_id
+ORD-156242,2023-10-15,,PROD-1047,4,2464.68,0.0,99.0,UPI,Completed,Unrecoverable missing customer_id
+ORD-156371,2024-07-05,,PROD-1180,1,555.74,0.0,79.0,Credit Card,Completed,Unrecoverable missing customer_id
+ORD-156742,2024-01-03,,PROD-1117,1,1416.06,0.05,79.0,Credit Card,Completed,Unrecoverable missing customer_id
